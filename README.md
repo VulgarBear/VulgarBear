@@ -1,28 +1,33 @@
-<p align="center">
-<img width=64px src="https://user-images.githubusercontent.com/23022623/133935873-deac463b-5f71-40f4-b15e-71e48336a238.gif">
- <h3 align="center">Nice to See You</h3>
-</p>
+<div align=center>
+<h2><img width=40px src="https://i.imgur.com/nXBwU2v.gif">おす, I'm Lucas aka VulgarBear! <img width=40px src="https://i.imgur.com/PxQjiCO.gif"></h2>
+</em></p>
 
-Welcome to my humble GitHub profile! I'm a network administrator by trade and looking to get my hands dirty in the coding world. I mainly do so as a hobby or for personal projects but I am also working towards making my life easier professionally as well. If any of my projects have peaked your interest feel free to grill me on my mistakes 😄.
+![Twitch Status](https://img.shields.io/twitch/status/vulgarbear)
+![GitHub followers](https://img.shields.io/github/followers/VulgarBear?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/vulgarbear?style=social)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/vulgarbear)
 
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=vulgarbear&show_icons=true&theme=tokyonight&hide_border=true&&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=vulgarbear&langs_count=6&theme=tokyonight&hide_border=true&&bg_color=00000000">
-  <br>
-  <br>
-</p>
+[![Discord Presence](https://lanyard.kyrie25.me/api/101808227385098240?theme=dark&animated=true&imgStyle=square)](https://discord.com/users/101808227385098240)
 
-<!--
-**VulgarBear/VulgarBear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://i.imgur.com/ohSpxQH.gif" width="50"> A little more about me...
+</div>
 
-Here are some ideas to get you started:
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Lucas" or "VulgarBear"
+        self.role = "System/Network Administrator"
+        self.language_spoken = ["en_US"]
+
+    def say_hi(self):
+        print("Thanks for visiting, hopefully you find something of use.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
