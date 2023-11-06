@@ -6,6 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/VulgarBear?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/vulgarbear?style=social)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/vulgarbear)
+[![Matrix User](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/@vulgarbear:matrix.org)
 
 [![Discord Presence](https://lanyard.kyrie25.me/api/101808227385098240?theme=dark&animated=true&imgStyle=square)](https://discord.com/users/101808227385098240)
 
@@ -31,3 +32,5 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
+
+![Matrix User](https://matrix.to/#/@vulgarbear:matrix.org)
