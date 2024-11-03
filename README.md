@@ -18,7 +18,7 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class NetworkAdministrator:
 
     def __init__(self):
         self.name = "Lucas" or "VulgarBear"
@@ -32,5 +32,3 @@ class SoftwareEngineer:
 me = NetworkAdministrator()
 me.say_hi()
 ```
-
-![Matrix User](https://matrix.to/#/@vulgarbear:matrix.org)
