@@ -32,3 +32,6 @@ class NetworkAdministrator:
 me = NetworkAdministrator()
 me.say_hi()
 ```
+<div align=center>
+<img src=github-metrics.svg>
+</div>
